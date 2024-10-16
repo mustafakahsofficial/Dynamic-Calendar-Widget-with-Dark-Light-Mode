@@ -80,7 +80,9 @@ h1 {
 
 /* Dark mode styles */
 body.dark-mode {
-    /*background-color: #222;*/
+    
+    /* dark mode geçildiğinde arka planında koyu olması için bu kodu etkinleştir
+    background-color: #222;*/
     color: white;
 }
 
