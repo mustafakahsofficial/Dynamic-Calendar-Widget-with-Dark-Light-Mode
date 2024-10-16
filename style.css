@@ -89,8 +89,7 @@ body.dark-mode #container {
 }
 
 body.dark-mode #toggle-mode {
-    background-color: #999;
-}
+    background-color: #FF5733;}
 
 body.dark-mode .calendar-grid div {
     background-color: #444;
