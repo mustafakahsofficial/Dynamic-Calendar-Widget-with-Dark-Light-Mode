@@ -80,7 +80,7 @@ h1 {
 
 /* Dark mode styles */
 body.dark-mode {
-    background-color: #222;
+    /*background-color: #222;*/
     color: white;
 }
 
